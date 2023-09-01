@@ -1,75 +1,63 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Persian Speech Summarization
 
-# Project Name
+> This project aims to provide a comprehensive dataset and a powerful test bench model for speech summarization in the Persian language. The dataset and model are designed to facilitate research and development in the field of speech summarization while focusing on the unique characteristics of the Persian language.
 
-> One paragraph statement about the project.
+## Dataset
+The Persian Speech Summarization Dataset is a meticulously curated collection of speech data in Persian. It includes a diverse range of audio recordings covering informal speech domains, such as chichats, daily chats, calls, and more. With a wide range of topics and speakers, the dataset enables the training and evaluation of speech summarization algorithms for different use cases and scenarios.
 
-![screenshot](./app_screenshot.png)
+**Key features of the dataset:**
+- Large collection of Persian speech recordings
+- Multiple voices and topics covered
+- Rich metadata, including speaker information, recording details, transcripts, and more
+- Fully annotated with high-quality summaries for each speech recording
+- Segmented and aligned to facilitate model training and evaluation
 
-Additional description about the project and its features.
+This dataset is **not currently accessible**. 
+  
+## Test Bench Model
+In addition to the dataset, we provide a high-performance Test Bench Model specifically tailored for the Persian language. The model is trained using state-of-the-art techniques in deep learning and natural language processing. It has been fine-tuned on the Persian Speech Summarization Dataset to optimize performance and accuracy.
 
-## Built With
+**Main features of the Test Bench Model:**
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
+- Built on advanced deep learning architectures
+- Trained using large-scale Persian speech summarization data
+- Utilizes cutting-edge natural language processing techniques
+- High-quality, coherent summaries generated for Persian speech
+  
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
+```
+git clone https://github.com/example/repository.git
+```
+
 ### Prerequisites
-
-### Setup
-
-### Install
-
+Install the necessary dependencies: 
+```
+pip install -r requirements.txt
+```
 ### Usage
+- Preprocess the dataset according to your specific requirements.
+- Load the Test Bench Model and use it to generate summaries for Persian speech.
 
-### Run tests
+## Author
 
-### Deployment
+👤 **Zahra**
 
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [GitHub](https://github.com/ZahraArshia)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/ZahraArshia)
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome!
+Contributions to the Persian Speech Summarization Dataset and Test Bench Model are welcome. If you would like to contribute to the project or provide feedback, please open an issue on the repository or submit a pull request.
 
 Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
